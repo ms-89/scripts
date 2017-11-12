@@ -6,8 +6,8 @@
 // @version     1.3
 // @author      Michael Stief
 // @require     http://code.jquery.com/jquery-2.1.4.min.js
-// @updateURL   https://github.com/ms-89/scripts/blob/master/schisslaweng.user.js
-// @downloadURL https://github.com/ms-89/scripts/blob/master/schisslaweng.user.js
+// @updateURL   https://github.com/ms-89/scripts/raw/master/schisslaweng.user.js
+// @downloadURL https://github.com/ms-89/scripts/raw/master/schisslaweng.user.js
 // ==/UserScript==
 
 jQuery(function($) {
